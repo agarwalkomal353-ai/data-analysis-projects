@@ -8,6 +8,7 @@ This project analyzes Netflix data using Python, Pandas and Matplotlib to explor
 - Python
 - Pandas
 - Matplotlib
+- Power BI
 
 # Project Overview
 This project analyzes the Netflix Movies and TV Shows dataset to understand the platform's content library. The dataset contains information such as content type, title, director, cast, country, release year, date added, rating, duration, and genre. The project involves data cleaning, exploratory data analysis (EDA), and data visualization to identify trends, patterns, and insights about Netflix content.
