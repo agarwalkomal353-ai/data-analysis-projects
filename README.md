@@ -14,12 +14,13 @@ This project analyzes the Netflix Movies and TV Shows dataset to understand the 
 
 # Key Insights
 1.Movies dominate Netflix content libraries, making up the majority of the available content
-2.The United States is the largest content producer, followed by India
-3. Netflix's content library grew rapidly after 2015, with 2019 having the highest number of titles added
-4. Most Netflix titles were released between 2016 and 2020 , showing a strong focus on recent content
-5. International Movies , Dramas, Comedies are among the most common genres on netflix
-6. TV-MA is the most common content rating , followed by TV-14 and TV-PG
-7. Movies are available across a wider variety of genres and ratings than TV Shows
+
+2.The United States is the largest content producer, followed by India.
+3. Netflix's content library grew rapidly after 2015, with 2019 having the highest number of titles added.
+4. Most Netflix titles were released between 2016 and 2020 , showing a strong focus on recent content.
+5. International Movies , Dramas, Comedies are among the most common genres on netflix.
+6. TV-MA is the most common content rating , followed by TV-14 and TV-PG.
+7. Movies are available across a wider variety of genres and ratings than TV Shows.
 8. Most movies have a duration around 100 minutes, while children's movies are generally shoerter.
 9. Most TV shows have only one season, indicating that short format series are common on Netflix.
 10. Overall, Netflix focuses strongly on movies while maintaining a diverse collection of TV Shows across countries, genres and audiences
