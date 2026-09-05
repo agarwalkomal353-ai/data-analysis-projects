@@ -17,9 +17,9 @@ This project analyzes the Netflix Movies and TV Shows dataset to understand the 
 
 2.The United States is the largest content producer, followed by India.
 
-3. Netflix's content library grew rapidly after 2015, with 2019 having the highest number of titles added
+3.Netflix's content library grew rapidly after 2015, with 2019 having the highest number of titles added
 
-4. Most Netflix titles were released between 2016 and 2020 , showing a strong focus on recent content.
+4.Most Netflix titles were released between 2016 and 2020 , showing a strong focus on recent content.
  
 5.International Movies , Dramas, Comedies are among the most common genres on netflix.
 
