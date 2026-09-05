@@ -23,15 +23,15 @@ This project analyzes the Netflix Movies and TV Shows dataset to understand the 
  
 5.International Movies , Dramas, Comedies are among the most common genres on netflix.
 
-6. TV-MA is the most common content rating , followed by TV-14 and TV-PG.
+6.TV-MA is the most common content rating , followed by TV-14 and TV-PG.
  
-7. Movies are available across a wider variety of genres and ratings than TV Shows.
+7.Movies are available across a wider variety of genres and ratings than TV Shows.
 
-8. Most movies have a duration around 100 minutes, while children's movies are generally shoerter.
+8.Most movies have a duration around 100 minutes, while children's movies are generally shoerter.
  
-9. Most TV shows have only one season, indicating that short format series are common on Netflix.
+9.Most TV shows have only one season, indicating that short format series are common on Netflix.
 
-10. Overall, Netflix focuses strongly on movies while maintaining a diverse collection of TV Shows across countries, genres and audiences
+10.Overall, Netflix focuses strongly on movies while maintaining a diverse collection of TV Shows across countries, genres and audiences
 
 # Conclusion
 This project explored the Netflix dataset using Python, Pandas and Matplotlib to identify trends in content type , genres, ratings, release year and countries. The analysis provided useful insights into Netflix's content library and helped understand patterns in movies and TV shows
