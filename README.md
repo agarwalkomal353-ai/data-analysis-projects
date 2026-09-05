@@ -37,6 +37,10 @@ This project analyzes the Netflix Movies and TV Shows dataset to understand the 
 # Conclusion
 This project explored the Netflix dataset using Python, Pandas and Matplotlib to identify trends in content type , genres, ratings, release year and countries. The analysis provided useful insights into Netflix's content library and helped understand patterns in movies and TV shows
 
+## Dasboard
+![Netflix Dashboard] (netflix dasboard.png)
+
+
 
 
 
