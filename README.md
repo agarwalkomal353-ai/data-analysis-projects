@@ -311,9 +311,6 @@ Data Analytics Project
 Python • Pandas • Data Visualization • Exploratory Data Analysis
 
 
-## Dashboard
-![Netflix Dashboard](netflix-dashboard.png)
-
 
 
 
